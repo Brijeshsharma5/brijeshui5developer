@@ -1,0 +1,105 @@
+{
+    "name":"Brijesh Sharma",
+    "email":"brijeshsharma55555@gmail.com",
+    "designation":"UI5 Developer",
+    "phone":"+91-9818255369",
+    "currentcompany":"Intellect Bizware Service Pvt Ltd",
+    "skill":[
+
+        {
+            "name":"UI5"
+            
+        },
+        {
+            "name":"ABAP"
+            
+        },
+        {
+            "name":"SAP CAPM"
+           
+        },
+        {
+            "name":"html"
+            
+        },
+        {
+            "name":"CSS"
+            
+        },
+        {
+            "name":"Java Script"
+           
+        }
+        
+    ],
+    "education":[
+
+        {
+            "type":"Xth",
+            "per":"65%",
+            "year": 2013
+        },
+        {
+            "type":"12th",
+            "per":"70%",
+            "year": 2015
+        },
+        {
+            "type":"B.com",
+            "per":"53%",
+            "year": 2018
+        },
+        {
+            "type":"M.com",
+            "per":"57%",
+            "year": 2020
+        },
+        {
+            "type":"MCA",
+            "per":"60%",
+            "year": "pursuing"
+        }
+    ],
+    "certification":[
+
+        {
+            "name":"SAP ABAP",
+            "year": 2013
+        },
+        {
+            "name":"SAP UI5",
+            "year": 2015
+        },
+        {
+            "name":"SAP CLOUD",
+            "year": 2018
+        }
+        
+    ],
+    "employment":[
+
+        {
+            "name":"Accentuate  Business Solution Pvt Ltd",
+            "projects": [{
+                "name":"project1",
+                "type":"Implementation"
+            },{
+                "name":"project2",
+                "type":"Support"
+            }]
+        },
+        {
+            "name":"Intellect Bizware Business Solution Pvt Ltd",
+            "projects": [{
+                "name":"project1",
+                "type":"Implementation"
+            },{
+                "name":"project2",
+                "type":"Support"
+            }]
+        }
+        
+        
+        
+    ]
+}
